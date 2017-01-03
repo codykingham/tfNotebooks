@@ -1,0 +1,58 @@
+pos,type,of kind
+n.pr.gent,agent,person
+n.pl.m,object,abstract
+n.pr.font,place,name
+n.pr.pl.gent.,agent,person
+n.pr.pers.m,agent,person
+n.coll.f,agent,animal
+n.pr.mont,place,name
+n.f.unit,object,measurement
+n.pr.gent.pl,agent,person
+n.gent.coll,agent,person
+n.m.denom,agent,person
+n.f.abstr,object,abstract
+n.[m.]coll,object,physical
+n.[m.]pl.intens,object,abstract
+n.m.du,object,physical
+n.pr.div,agent,person
+n.pr.gent.coll,agent,person
+n. m,agent,person
+n.[f.pl.],object,physical
+n.[m.]pl.abstr,object,abstract
+n.pr.m.,agent,person
+n.[m,agent,person
+n.coll,agent,person
+n.pr.terr.m,place,name
+n.pr.loc,place,kind/name
+n.pr.,object,abstract
+n.pr.terr,place,name
+n. abstr,object,abstract
+n.pr.pers,agent,person
+n.pr.m,agent,half
+n.pr.f,agent,person
+n.[f.],object,half
+n.pr,agent,person
+n.pl.[m.] abstr,object,abstract
+n.pr.m.coll,agent,person
+n.m.pers,agent,person
+n.pr.pl.gent,agent,person
+n.pr.flum,place,name
+n.pl.f.abstr,object,abstract
+n.pr.deae,agent,god
+n.pl.abstr,object,abstract
+n. gent,agent,person
+n.f.cstr,object,abstract
+n.f.verbal,object,abstract
+n.[m.]du,object,physical
+n.[m.?],object,physical
+n.verb,agent,person
+n.gent.pl,agent,person
+n.pr.rup,place,name
+n.pr.mont.,place,name
+n.pr.dei,agent,god
+n.pr.m.pl,agent,person
+n.pr.terr.,place,name
+n.m.pl.abstr,object,abstract
+n.gent,agent,person
+n.pl.gent,agent,person
+n.m.dei,agent,god
