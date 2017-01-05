@@ -1,0 +1,1 @@
+My tutorial for using TF with the Greek sblgnt data is available at https://github.com/ETCBC/text-fabric/blob/master/docs/tutorialGNT.ipynb
