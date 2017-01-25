@@ -1,0 +1,7 @@
+<span>
+    {text}
+</span>
+<span>
+    {label}
+</span>
+<br>

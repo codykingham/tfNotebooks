@@ -1,0 +1,13 @@
+<HTML>
+<meta charset="UTF-8">
+<HEAD>
+    <h1 style="text-align: center; font-family: SBL BibLit, Times New Roman;">
+	{title}	
+    </h1>
+</HEAD>
+<BODY>
+<div style="text-align: right; padding-right: 450px; font-family: Times New Roman">
+    {data}
+</div>
+</BODY>
+</HTML>

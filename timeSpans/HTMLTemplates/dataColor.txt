@@ -1,0 +1,7 @@
+<span style="background-color:{color};">
+	{text}
+</span>
+<span>
+	{label}
+</span>
+<br>
