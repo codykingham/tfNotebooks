@@ -2,7 +2,7 @@
 <tr>
 <td>
 <img src="images/tf.png" 
-style="width:150px; height:100px;"
+style="width:75px; height:35px;"
 >
 </td>
 <td>
