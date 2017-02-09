@@ -1,4 +1,14 @@
-**These notebooks are in progress. They are a very early effort at exploring an MA thesis topic. The topic and direction remain fluid.**<br><br>
-The code utilises the database resources of the Eep Talstra Centre for Bible and Computer via the ETCBC4c in [Text-Fabric](https://github.com/ETCBC/text-fabric "Text-Fabric"). 
-<br><br>
-The notebooks in this repository will also serve for my final project for the [Python for Text Analysis](https://github.com/evanmiltenburg/python-for-text-analysis "PTA") course at the VU Amsterdam. 
+# Time Spans in Genesis
+
+This project attempts to track the influence of time markers throughout clause chains within the book of Genesis. The purpose is to explore the relationship between time indicators and the verb forms they "govern."
+
+There are two main Jupyter notebooks in this directory. If you have never used Text-Fabric before, you should follow the order below for working through this project.
+
+1. [Text_Fabric_Tutorial.ipynb](Text_Fabric_Tutorial.ipynb)
+  * installation and setup of Text-Fabric and the ETCBC Hebrew data
+2. [Time_Spans.ipynb](Time_Spans.ipynb)
+  * creation and analysis of Genesis time spans
+
+The directory also contains a visualization in html format ([Genesis_timespans.html](Genesis_timespans.html)). It is built and hyperlinked within the [Time_Spans](Time_Spans.ipynb) notebook.
+
+This project served as my final project for the [Python for Text Analysis course](https://github.com/evanmiltenburg/python-for-text-analysis) at the Free University of Amsterdam in 2017.
