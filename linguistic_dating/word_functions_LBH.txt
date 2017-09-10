@@ -1,0 +1,733 @@
+conj verb prep subs nmpr
+prps nmpr
+conj verb prep nmpr conj prep nmpr subs conj subs conj subs subs
+prep art subs art prde prep subs subs verb subs prep subs subs conj subs subs nmpr conj nmpr art subs conj subs art subs prep subs
+prep verb art subs nmpr prep subs subs
+conj prep nmpr art subs
+prep verb
+prep verb prep subs subs subs conj prep subs subs subs subs adjv subs conj subs subs
+conj verb art subs prep subs art subs prep prep subs conj prep subs subs subs subs prep subs subs subs art subs
+prep verb art subs art prde
+conj verb prep nmpr art subs
+subs subs conj subs verb prep subs subs conj subs prep subs subs conj subs subs
+subs subs conj subs prep subs subs conj subs conj subs conj subs
+conj verb prep subs subs
+conj subs prep subs verb
+conj subs subs adjv prep subs art subs
+conj art subs prep art subs
+nega subs
+conj advb verb art subs prep subs subs subs
+prep verb prep subs subs conj subs
+advb nmpr art subs verb subs subs subs art subs
+conj prep art subs nmpr
+prep art subs art adjv verb prep nmpr nmpr nmpr nmpr conj nmpr nmpr conj nmpr subs art subs
+prep verb subs art subs prep art subs
+conj verb prep subs art subs nmpr
+prep verb prep nmpr art subs prep subs art subs prep subs subs
+prep verb art subs conj art subs prep subs
+conj adjv subs prps
+conj verb art subs nmpr
+prep verb prep subs art subs
+conj prep subs art subs
+conj verb art subs advb
+conj subs verb prep
+conj verb art subs prep art subs subs art subs
+conj advb subs art subs prep subs subs subs subs conj subs
+conj nmpr nmpr nmpr nmpr nmpr nmpr nmpr subs subs nmpr conj nmpr subs subs art subs
+conj adjv prep
+conj verb advb prep art subs
+prep subs prin
+prep verb prep art subs nmpr
+prep conj nega verb prep subs art subs nmpr prep subs art subs
+conj verb nmpr prep subs art subs conj art subs
+nega prep art subs prep subs verb nmpr art subs
+conj prep subs art subs conj prep subs art subs
+conj prep subs subs art subs nmpr
+conj verb subs art subs prep subs art subs
+prep verb subs prep subs
+prep verb
+art subs nmpr verb
+prep verb prep nmpr art subs prep subs
+conj nega verb
+conj art subs art prde verb subs nmpr conj nmpr prep subs subs art subs
+conj verb prep subs art subs
+conj prep subs subs conj subs
+conj prep art subs adjv
+verb subs subs prep prep subs
+conj verb prep subs nmpr conj nmpr
+conj nega verb
+conj nega verb nmpr prep subs art subs nmpr
+conj subs verb art subs prep subs
+conj adjv prep
+conj verb subs art subs prep subs subs
+conj verb
+conj adjv prps
+conj subs art subs verb subs prep subs prep prep subs conj prep subs
+conj verb art subs prep subs art subs conj art subs
+conj verb art subs prep subs nmpr
+conj verb subs prep subs subs art subs
+prep subs conj subs prep subs
+conj prep subs conj subs prep subs
+prep verb subs subs
+verb prep subs
+conj verb prep subs subs
+prep art subs art prde verb prep nmpr
+prep verb subs art subs nmpr
+conj prep conj verb
+conj prep conj verb prep
+conj verb subs art subs subs
+verb prep art subs subs subs adjv subs
+conj verb art subs subs prep subs subs subs
+conj verb prep subs subs subs adjv subs prep nmpr art subs prep subs art subs prep subs nmpr subs art subs subs art subs
+conj verb subs
+conj art subs verb prep nmpr
+conj verb prep subs art subs
+conj verb art subs prep subs art subs
+conj verb advb
+subs adjv verb prep nmpr art subs
+conj subs nmpr subs nmpr subs nmpr subs nmpr
+subs adjv
+conj verb prep nmpr prep art subs
+conj verb prep nmpr subs nmpr
+conj verb nmpr subs nmpr
+conj verb verb prep nmpr subs subs
+prps nmpr
+conj nega prep subs conj subs
+conj art subs adjv subs conj adjv subs
+conj prep subs subs conj subs verb nmpr prep prep subs
+conj verb
+prep verb subs art subs conj subs
+conj prep verb subs adjv prep nmpr art subs prep subs nmpr
+conj verb nmpr prep subs art subs prep subs nmpr subs art subs
+conj verb art subs prep subs
+conj verb subs prep subs
+conj verb prep subs conj prep subs
+prep verb prep
+conj prep subs art subs art adjv
+prep verb prep prep subs art subs
+conj verb conj prep subs prep subs subs art subs
+nega verb nmpr prep subs conj prep subs
+conj nmpr verb prep
+conj nega verb
+conj prep subs subs conj subs nmpr verb prep subs subs subs art subs
+prep verb prep subs nmpr
+conj prin verb prep
+conj prep verb subs subs conj subs
+prep verb prep art subs nmpr
+prep subs
+verb prep prep subs art subs subs subs subs
+conj advb verb subs subs
+subs subs prep subs art subs
+conj subs subs prep art subs conj prep subs art subs
+conj prep prde art subs verb prep art subs
+prep subs verb prep
+conj verb
+prep verb prep prep subs art subs prep subs art subs
+prep art subs prps verb
+conj prep art subs prps verb prep subs art subs adjv prep subs nmpr subs art subs subs art subs
+nega verb advb prep art subs
+conj conj verb prep art subs
+conj verb prep subs
+conj nega verb subs
+prep verb subs nmpr subs nmpr subs nmpr
+conj verb prep prep subs
+prep verb prep art subs
+conj conj
+prep conj verb nmpr subs art subs subs art subs
+conj verb nmpr verb subs prep subs subs subs
+conj verb nmpr prep art subs nmpr prep subs subs prep art subs art adjv prep subs subs prep subs
+prps subs nmpr
+conj verb art subs prep nmpr prep subs art subs
+conj verb subs conj subs prep subs prep subs art subs
+conj verb subs subs prep subs
+conj verb prep nmpr
+conj verb art subs subs adjv prep subs subs conj subs prep subs nmpr
+conj subs prep art subs verb
+conj verb subs prep subs art subs
+conj prep verb subs advb
+conj nmpr verb prep subs art subs
+nega nmpr verb subs conj prep subs
+prep conj verb prep nmpr
+conj prep subs nmpr nmpr verb
+prep conj verb prep subs prep
+prep art subs art prde verb nmpr conj nmpr subs subs art subs prep subs art subs
+conj nmpr verb prep subs art subs
+conj verb
+prep verb subs prep art subs nmpr
+conj verb art subs prep nmpr
+conj verb prep nmpr art subs
+conj verb nmpr prep art subs prep subs nmpr
+conj verb art subs
+conj verb
+conj verb subs prep subs
+conj verb prep subs subs art subs prep subs art subs
+prep art subs art prde verb art subs nmpr prep nmpr subs nmpr art subs
+conj verb
+conj verb prep subs prep prep subs art subs
+conj prep
+conj subs subs art subs verb
+conj prep subs art subs
+conj verb prep nmpr
+conj advb verb prep art subs
+conj nmpr nega verb
+conj nega verb
+conj verb subs art subs prep nmpr
+conj prep subs art subs
+inrg prps verb prep subs art subs
+conj verb
+prep verb prep subs conj subs
+conj nega verb prep
+conj verb prep nmpr
+prep verb
+inrg verb subs nmpr
+conj verb prep
+conj prps adjv
+conj verb nmpr
+conj nega nmpr verb
+conj verb prep
+conj verb nmpr subs
+conj verb prep subs
+prep verb subs prep nmpr prep subs
+conj verb prep prep subs nmpr
+conj verb nmpr
+prep verb prep subs art subs subs nmpr
+conj prep subs subs nmpr
+prep art subs art adjv prep subs subs subs prep art subs nmpr verb subs prep subs nmpr prep subs prep subs conj prep subs prep subs subs subs
+prps subs nmpr
+prps art subs
+prps subs nmpr
+conj verb nmpr prep art subs nmpr
+subs
+subs subs verb
+conj verb prep art subs prep subs subs subs
+conj subs verb prep subs subs
+conj prep subs art subs nega verb
+conj prep art subs nega verb
+prep verb
+conj prep art subs adjv
+verb
+prep verb
+conj subs subs subs subs verb prep subs subs art subs
+prep verb prep subs art subs
+conj verb art subs prep subs prep prep subs
+conj verb prep nmpr subs nmpr art subs
+verb art subs
+conj verb art subs prep nmpr
+art subs verb prep
+conj art subs
+prep verb prep prep art subs prep subs
+conj verb subs art subs prep art subs art adjv prep subs subs subs prep
+conj verb prep subs prep subs art subs conj prep art subs conj prep subs subs conj subs
+conj verb nmpr
+conj prep subs conj subs
+subs conj subs prep subs
+conj subs conj subs prep subs
+prep subs art subs nmpr adjv
+conj verb prep subs art subs
+conj verb subs prep subs art subs prep subs subs art subs
+prep verb
+prep verb
+conj prep verb prep subs art subs prep subs conj prep subs subs conj subs prep subs subs prep subs subs prep subs subs subs
+prps subs nmpr
+conj subs prep verb
+subs art subs
+prep verb subs prep subs subs conj subs
+verb prep subs art subs
+prep verb adjv prep art subs art prde
+art subs verb
+verb prep subs art subs
+conj art subs verb prep nmpr art subs
+conj art subs conj nmpr verb
+prep verb
+conj art subs nmpr verb
+conj nmpr verb prep subs
+conj verb
+conj verb nmpr prep subs
+conj verb subs conj subs
+conj verb prep subs art subs
+conj verb subs adjv conj adjv
+conj verb prep prep subs subs art subs
+conj nega
+prep verb prep subs art subs prep subs subs
+conj prep subs subs conj subs subs subs adjv prep art subs
+conj subs art subs conj subs verb
+conj subs conj subs conj subs
+subs conj subs verb prep art subs
+conj verb subs nmpr conj subs
+conj verb prep
+conj verb art subs advb
+conj verb subs
+prep verb prep nmpr
+conj prep verb subs prep prep
+conj nega verb
+conj verb nmpr prep nmpr prep subs art subs
+conj verb prep subs
+conj verb prep nmpr
+prep verb
+inrg prde
+conj prep prin prde
+conj verb nmpr prep nmpr prep subs art subs
+conj prep subs subs art subs
+conj verb prep nmpr prep subs conj prep subs art subs
+conj verb
+conj verb nmpr
+prep verb prep subs art subs prep art subs
+prep verb
+conj prep subs subs art subs verb prep
+conj verb prep nmpr
+prep verb
+prep verb prep nmpr
+conj prep verb prep
+conj prep verb prep
+prep verb prep art subs
+prep verb prep
+conj prep verb prep prep subs prep subs
+conj verb nmpr
+conj verb prep nmpr prep subs nmpr
+conj verb nmpr prep nmpr
+conj verb prep nmpr
+subs subs art subs conj subs subs art subs verb
+conj subs subs conj subs
+conj verb prep art subs prep art subs art adjv
+conj nega verb
+subs subs prep subs
+prep verb
+prep conj verb prep art subs prep subs art subs
+conj verb
+conj prps nega verb advb subs subs
+prep verb prep art subs
+conj verb prep nmpr prep subs nmpr
+conj verb nmpr
+prep verb prep nmpr
+nega verb prep subs
+prep verb subs art subs prep subs art subs
+conj subs conj subs verb prep art subs prep subs adjv
+conj advb verb prep art subs art prde
+conj prps conj subs subs verb
+conj prin verb
+conj prep subs prep prde verb prep art subs
+conj verb nmpr
+prep verb prep nmpr
+verb
+verb prep subs art subs
+conj verb prep nmpr
+conj verb prep
+conj nega verb
+conj nega verb subs subs advb conj advb
+advb prps conj subs verb advb
+conj prep advb verb prep art subs
+conj nega prep art subs
+conj verb
+prep conj verb
+conj verb nmpr
+conj verb prep subs
+conj verb prep nmpr
+conj verb prep art subs art adjv
+conj verb nmpr subs
+conj verb prep subs subs art subs art adjv prep subs art subs
+conj art subs verb prep subs subs prep subs art subs prep subs art subs
+conj verb
+prep verb art subs prep nmpr art subs
+verb prep art subs
+verb subs prep subs
+conj verb art subs prep nmpr prep subs art subs
+conj prep subs
+conj verb nmpr
+conj verb prep subs art subs
+conj verb prep art subs
+prin prep
+nmpr art subs
+conj prin subs
+prep subs art subs
+conj verb prep
+conj verb nmpr
+conj prep art subs adjv
+verb art subs conj nmpr art subs prep art subs
+conj verb prep
+conj verb art subs
+verb prep nmpr
+prep verb prep subs nmpr
+conj verb art subs conj nmpr prep art subs
+conj verb nmpr
+conj verb art subs prep nmpr prep subs art subs
+prin subs
+conj verb prep
+conj prin subs
+prep subs art subs
+conj verb
+conj verb nmpr
+conj verb
+subs conj subs
+conj verb subs prep subs art subs
+conj conj prep art subs adjv
+prep verb prep subs
+conj prep verb prep subs
+verb art subs conj nmpr prep art subs
+conj verb prep
+conj advb verb prep subs art subs
+conj verb nmpr prep art subs art prde adjv conj adjv subs
+conj prep verb nmpr prep nmpr prep subs art subs
+conj nega verb
+conj nega verb prep
+conj verb nmpr prep nmpr subs
+conj verb nmpr
+conj verb prep subs
+conj verb
+conj verb prep subs conj prep nmpr subs
+conj verb prep nmpr prep subs subs conj subs subs conj prep subs
+conj verb art subs
+conj prep conj verb prep art subs conj subs art subs
+conj verb nmpr
+advb nega verb nmpr art subs prep art subs prep art subs
+conj verb
+conj conj prep
+conj advb prep subs prps verb prep prep art subs
+conj subs prde
+nega verb prep prep subs subs
+conj prps verb prep nmpr art subs
+verb prep subs art subs
+conj verb prep nmpr subs conj subs subs
+verb subs adjv subs subs
+conj prep art subs verb prep art subs
+conj verb prep nmpr prep
+conj verb prep art subs prep art subs adjv
+conj verb art subs prep subs nmpr
+conj verb art subs
+prep art subs art prde verb subs art subs
+conj verb
+prep verb prep subs art subs subs art subs
+conj verb verb prep subs art subs
+conj verb subs
+conj verb nmpr prep nmpr conj nmpr subs subs art subs prep subs art subs
+conj verb
+prep verb subs prep art subs nmpr
+conj verb art subs
+prin verb subs conj subs prep nmpr prep prde
+conj verb subs art subs subs
+nega verb prep subs
+conj verb art subs
+prin prep art subs
+conj nmpr verb prep subs subs art subs art adjv
+prep verb prep art subs
+prep verb prep nmpr prep art subs
+conj verb prep
+conj verb subs art subs prep
+intj nmpr verb prep art subs
+conj verb art subs
+verb
+conj verb nmpr
+conj verb prep art subs
+prin
+prep verb prep art subs
+conj art subs verb prep subs
+conj verb nmpr prep subs
+prep prin verb art subs advb prep
+prep verb subs
+conj verb nmpr prep art subs
+subs
+conj art subs verb prep subs
+verb subs subs conj subs
+conj verb prep art subs
+conj verb prep art subs
+conj conj verb subs subs prep subs
+conj verb art subs conj art subs prep subs subs prep subs art subs art subs
+conj verb prep art subs
+conj art subs verb prep subs
+conj verb prep art subs prep subs art subs
+conj verb prep subs
+advb verb prep art subs
+conj art subs verb prep subs
+conj verb art subs prep nmpr
+verb
+verb prep art subs conj prep art subs
+prep conj verb
+conj verb advb prep nmpr art subs
+conj verb prep subs art subs
+nega verb subs prep subs
+conj verb
+conj verb nmpr prep art subs conj prep art subs
+conj verb prep nmpr
+conj verb prep subs art subs
+conj verb prep subs
+advb verb prep art subs
+conj art subs verb prep subs
+conj verb nmpr prep subs art subs
+conj nmpr verb prep subs adjv conj adjv subs
+conj verb nmpr prep nmpr subs conj prep subs subs prep subs
+conj verb
+conj verb prep subs conj nmpr subs
+conj prep subs art subs nmpr
+conj verb
+prep verb prep subs
+nega verb prep
+conj advb verb prep subs
+advb verb prep
+conj subs art subs verb
+conj verb
+prep verb prep nmpr prep art subs
+conj verb nmpr
+conj verb art subs conj nmpr
+prep verb prep nmpr art subs
+conj verb art subs prep nmpr advb prep art subs art adjv prep subs art subs
+prin subs
+nmpr art subs
+conj verb prep
+conj prin subs
+prep subs art subs
+conj verb
+conj verb nmpr art subs
+conj verb
+conj verb subs prep subs
+art subs
+conj conj prep art subs adjv
+verb prep subs prep subs
+conj subs prep subs
+conj verb prps conj subs
+prep verb
+prep verb
+conj prep verb
+conj verb
+conj prep subs conj prep subs verb
+conj nega art subs verb prep subs art subs
+conj verb art subs nmpr
+conj verb prep nmpr art subs
+prin prps prde
+conj inrg prde prps
+conj verb subs
+prep verb advb
+conj verb nmpr
+subs subs conj subs
+nmpr art adjv art prde
+conj nmpr verb prep prep subs art subs conj art subs
+conj art subs verb prep subs prep subs art subs prep subs art subs
+conj nmpr verb
+prep verb prep subs prep nmpr art subs
+conj verb
+conj verb prep art subs prep prep art subs
+conj art subs verb prep subs art subs prep subs subs art subs
+conj nmpr verb prep art subs
+conj nmpr prep
+conj verb art subs
+inrg advb prep verb prep art subs prep prep art subs
+art subs verb prep subs art subs
+conj subs nmpr verb
+conj verb nmpr subs prep art subs prep subs art subs
+advb intj art subs verb prep subs nmpr
+conj verb nmpr prep nmpr
+conj verb subs prep art subs
+adjv subs subs
+conj verb art subs
+verb prep
+conj verb prep nmpr prep art subs
+conj verb prep nmpr
+conj subs art subs verb
+prep art subs art prde verb art subs nmpr prep nmpr art subs prep subs nmpr subs art subs
+conj nmpr verb prep subs art subs
+conj verb nmpr
+prin prps prep
+conj verb art subs prep subs
+conj verb prep nmpr
+conj verb prep nmpr
+conj verb nmpr prep nmpr prep subs nmpr
+conj verb nmpr
+conj verb prep subs art subs
+conj verb prep subs subs
+conj verb
+conj verb prep
+prep verb prep subs nmpr art subs conj prep subs
+conj verb prep art subs
+conj verb art subs prep nmpr prep subs art subs
+conj verb nmpr
+conj verb prep subs art subs
+conj verb
+conj prep art subs adjv
+conj conj verb subs prep subs
+conj verb art subs prep subs art subs
+conj adjv prps prep subs
+verb
+prep verb prep art subs subs nmpr subs nmpr art subs
+conj verb
+prep verb prep art subs
+conj prep subs subs art subs
+conj inrg verb
+conj verb prep art subs
+conj verb prep subs
+conj inrg verb
+conj verb prep subs subs
+conj verb art subs nmpr prep nmpr art subs conj prep nmpr art subs
+intj subs nmpr verb prep nmpr
+conj prep verb prep art subs
+prep conj verb subs prep art subs
+conj prps verb prep art subs prep art subs prep subs prep subs art subs
+conj verb prep subs art subs
+conj subs nega
+conj verb prep subs art subs
+conj verb prep subs art subs
+prep verb
+conj verb subs art subs prep art subs art prde prep art subs art adjv prep subs conj subs prep
+prps subs nmpr
+conj verb prep subs prep art subs conj prep art subs conj art subs conj subs art subs subs conj subs conj subs subs
+conj verb nmpr
+conj prep nmpr conj prep nmpr
+subs conj subs prep subs
+conj subs conj subs prep subs
+conj prep art subs prep subs conj prep subs
+conj verb prep subs art subs nmpr
+conj verb prep subs art subs
+conj verb subs prep subs art subs prep art subs
+verb art subs art adjv subs art subs
+conj verb art subs prep art subs
+conj prep subs subs conj subs
+prep verb
+conj prep verb prep subs
+prep verb
+conj prep verb
+conj prep verb prep subs subs subs conj subs subs conj subs
+conj verb prep
+conj subs
+prep verb
+prep subs subs prep subs subs art subs nmpr prep subs subs prep subs subs subs
+prps subs nmpr
+subs art subs verb prep subs art subs
+prep verb subs prep subs subs conj subs
+conj prep verb art subs adjv prep art subs art prde
+prep verb prep subs
+art subs subs art subs art adjv verb prep subs art subs
+adjv conj adjv
+conj art subs verb prep nmpr art subs
+conj nmpr verb prep prep subs art subs prep subs subs subs conj subs conj subs subs adjv conj subs subs conj subs
+conj art subs nmpr verb
+conj verb
+prep art subs verb subs conj subs conj subs conj subs
+conj prep subs subs conj subs conj prep subs subs conj subs subs subs conj subs prep art subs
+conj subs art subs conj subs verb
+subs conj subs adjv
+conj subs prep subs art subs verb
+conj verb subs art subs prep
+conj prep subs subs subs prep subs subs subs prep prep art subs verb art subs prep subs prep subs subs art subs nmpr
+prps subs nmpr
+conj verb subs art subs conj subs
+prep verb
+conj verb subs art subs
+prep verb prep
+conj verb prps
+conj verb art subs prps prep subs
+prep verb subs prep subs subs
+conj subs nega verb prep subs
+conj verb subs prep subs art subs
+conj subs subs art subs conj art subs conj art subs conj subs art subs verb prep art subs
+conj prep art subs
+conj verb subs nmpr prep
+conj adjv nmpr prep subs art subs
+conj subs verb prep subs art subs
+conj art subs nmpr verb
+conj adjv
+conj verb art subs prep subs subs subs subs conj subs conj subs
+conj verb prep subs prep subs
+conj prep nmpr art subs verb art subs
+conj verb subs subs subs
+conj prep nmpr conj prep nmpr conj prep nmpr
+conj prep nmpr conj prep nmpr conj prep nmpr
+conj prep nmpr conj prep nmpr conj prep nmpr conj prep nmpr
+subs subs nmpr subs nmpr subs art subs verb
+conj prep art subs nega verb prep subs
+prep art subs art prde verb subs art subs prep nmpr art subs prep subs art subs
+conj verb art subs prep nmpr art subs
+prep nmpr art subs verb art subs
+conj verb subs subs subs
+conj prep subs subs nmpr
+prep subs subs art subs
+prin verb
+conj prin subs
+conj verb prep
+conj prin subs advb
+conj verb
+conj verb nmpr
+conj prep art subs adjv
+verb advb advb prep art subs
+conj prep nmpr
+prep verb prep subs art subs
+conj prep subs subs nmpr verb prep art subs
+conj verb art subs
+prep verb advb
+conj verb subs prep nmpr
+conj prep subs subs nmpr verb
+conj verb art subs advb prep subs subs subs prep subs nmpr
+conj prep nmpr
+conj verb prep nmpr subs subs subs
+conj prep art subs nega verb prep subs
+conj subs art subs verb
+conj prep subs art subs
+conj verb prep subs
+conj verb prep subs
+conj verb prep subs subs conj subs subs
+conj prep art subs nega verb prep subs
+prep subs subs subs prep subs nmpr
+conj verb prep subs subs prep
+conj verb prep subs subs conj subs
+conj art subs verb prep subs subs prep conj prep subs subs prep
+conj prep nmpr
+conj verb prep subs subs prep
+conj verb prep subs subs conj subs
+prep advb art subs art subs verb prep subs subs subs prep subs nmpr subs conj subs
+conj verb prep subs art subs
+conj subs adjv conj subs subs subs prep subs
+conj verb nmpr prep art subs art prde
+conj verb subs prep subs art subs
+conj prep subs subs art subs nmpr
+conj adjv
+conj conj adjv
+prep verb prep
+prep verb verb prep subs subs subs prep subs nmpr conj prep subs subs subs prep prep subs subs conj subs
+prep art subs conj art subs
+conj verb prep art subs prep subs
+conj verb prep prep subs prep subs
+conj prep subs prep subs adjv
+prep verb prep subs subs conj subs
+conj subs subs subs prep subs
+conj subs prep art subs
+conj verb art subs
+prep conj verb
+prep verb
+conj prep conj verb nmpr prep
+conj nmpr subs nmpr art subs subs subs art subs verb prep art subs
+prep verb
+conj verb subs
+prps art subs
+prep verb
+conj prep verb
+conj verb prep art subs
+prep verb prep subs art subs
+verb subs art adjv prep subs
+conj verb prep art subs
+conj verb prep conj prep subs prep art subs
+prep advb verb prep art subs art prde subs prep subs art subs
+prep advb prep subs subs art subs art prde
+conj prin verb prep advb
+conj prin verb prep
+verb
+conj verb art subs prep conj prep subs conj prep subs
+conj verb prep
+conj nega verb
+prep verb verb prep subs art subs art prde prep subs conj prep subs prep subs subs conj subs
+conj art subs art prde verb
+conj verb prep subs subs conj subs subs conj subs subs conj subs conj subs conj subs
+conj subs art subs art prde nega verb prep subs art subs
+conj subs nega verb prep subs
+conj verb nmpr art subs subs nmpr conj nmpr art subs prep subs subs
+prep verb prep subs art subs art prde art adjv
+conj verb subs prep subs art subs prep subs conj subs conj subs subs subs nmpr subs subs conj subs
+prep verb prep subs art subs art prde prep subs
+prep conj verb prep nmpr art subs conj nmpr art subs
+conj prep conj verb prep subs conj prep subs subs art subs conj subs
+conj subs nmpr verb subs art subs art prde
+conj verb prep art subs
+conj verb art subs nmpr subs prep art subs conj subs art subs
+conj subs subs subs conj subs conj subs subs nmpr
+conj verb art subs
+inrg nega prps verb prep subs subs art subs prep subs nmpr conj nmpr
+conj nmpr art subs subs prep art subs nmpr
+conj adjv prep art subs
+conj verb prep subs subs
+verb subs prep subs
+conj verb subs prep subs subs
