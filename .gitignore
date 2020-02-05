@@ -1,3 +1,5 @@
+.ipynb_checkpoints
+*.icloud
 .DS_Store
 __pycache__
 BrownDriverBriggs.xml
